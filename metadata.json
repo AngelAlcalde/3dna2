@@ -1,0 +1,6 @@
+{
+  "name": "3DNA - Hecho en Itá Ibaté | Sistema de Gestión",
+  "description": "Sistema de gestión integral para taller de impresión 3D 3DNA en Itá Ibaté: control de pedidos, costos y precios, ingresos, gastos y caja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
